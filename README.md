@@ -21,4 +21,5 @@ https://docs.amplify.aws/start/getting-started/installation/q/integration/vue
 - Clone the repo: `git clone https://github.com/akki-io/vote-donut`
 - `cd vote-donut`
 - `yarn install`
+- `yarn serve`
 - `amplify publish`

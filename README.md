@@ -6,6 +6,13 @@ A demo voting app using the AWS Amplify Framework and Vue.js
 
 ![Screenshot](https://raw.githubusercontent.com/akki-io/vote-donut/master/public/vote-donut-image.png "Screenshot")
 
+AWS Amplify Framework is a powerful framework and is the fastest, easiest way to develop mobile and web apps that scale. This app is completely serverless. 
+
+# Stack
+- Frontend - VueJs
+- Serverless API - AWS AppSync GraphQL API
+- Serverless Database - AWS DynamoDB
+
 # Prerequisites
 
 Before we begin, make sure you have the following installed:

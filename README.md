@@ -1,24 +1,24 @@
-# votedonut
+# donut.akki.ca
 
-## Project setup
-```
-yarn install
-```
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/akki-io/vote-donut)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+A demo voting app using the AWS Amplify Framework and Vue.js
 
-### Compiles and minifies for production
-```
-yarn build
-```
+![Screenshot](https://raw.githubusercontent.com/akki-io/vote-donut/public/vote-donut-image.png "Screenshot")
 
-### Lints and fixes files
-```
-yarn lint
-```
+# Prerequisites
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Before we begin, make sure you have the following installed:
+- [Node.js](https://nodejs.org/) v10.x or later
+- [npm](https://www.npmjs.com/) v5.x or later
+- [git](https://git-scm.com/) v2.14.1 or later
+
+# Setup
+Follow the instruction here to set up AWS account and Amplify CLI.
+https://docs.amplify.aws/start/getting-started/installation/q/integration/vue
+
+# Installation
+- Clone the repo: `git clone https://github.com/akki-io/vote-donut`
+- `cd vote-donut`
+- `yarn install`
+- `amplify publish`

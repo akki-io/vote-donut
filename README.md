@@ -4,7 +4,7 @@
 
 A demo voting app using the AWS Amplify Framework and Vue.js
 
-![Screenshot](https://raw.githubusercontent.com/akki-io/vote-donut/public/vote-donut-image.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/akki-io/vote-donut/master/public/vote-donut-image.png "Screenshot")
 
 # Prerequisites
 

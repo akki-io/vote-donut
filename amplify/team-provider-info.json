@@ -1,15 +1,15 @@
 {
-    "dev": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-votedonut-dev-182533-authRole",
-            "UnauthRoleArn": "arn:aws:iam::163011916086:role/amplify-votedonut-dev-182533-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::163011916086:role/amplify-votedonut-dev-182533-authRole",
-            "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-votedonut-dev-182533-deployment",
-            "UnauthRoleName": "amplify-votedonut-dev-182533-unauthRole",
-            "StackName": "amplify-votedonut-dev-182533",
-            "StackId": "arn:aws:cloudformation:us-east-1:163011916086:stack/amplify-votedonut-dev-182533/6e23af40-cd33-11ea-ae92-0a8267cebc39",
-            "AmplifyAppId": "d22p9povog20pl"
-        }
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-votedonut-dev-182533-authRole",
+      "UnauthRoleArn": "arn:aws:iam::163011916086:role/amplify-votedonut-dev-182533-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::163011916086:role/amplify-votedonut-dev-182533-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-votedonut-dev-182533-deployment",
+      "UnauthRoleName": "amplify-votedonut-dev-182533-unauthRole",
+      "StackName": "amplify-votedonut-dev-182533",
+      "StackId": "arn:aws:cloudformation:us-east-1:163011916086:stack/amplify-votedonut-dev-182533/6e23af40-cd33-11ea-ae92-0a8267cebc39",
+      "AmplifyAppId": "d22p9povog20pl"
     }
+  }
 }

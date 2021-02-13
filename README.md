@@ -19,6 +19,7 @@ Before we begin, make sure you have the following installed:
 - [Node.js](https://nodejs.org/) v10.x or later
 - [npm](https://www.npmjs.com/) v5.x or later
 - [git](https://git-scm.com/) v2.14.1 or later
+- [AWS Account](https://aws.amazon.com/)
 
 # Setup
 Follow the instruction here to set up AWS account and Amplify CLI.
@@ -29,4 +30,9 @@ https://docs.amplify.aws/start/getting-started/installation/q/integration/vue
 - `cd vote-donut`
 - `yarn install`
 - `yarn serve`
+- `amplify init`
 - `amplify publish`
+
+# Deploy AS-IS
+- Fork the repo
+- On the forked repo click the "Deploy to Amplify Console" button.
